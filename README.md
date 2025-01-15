@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital sobre Linguagem do Corpo com as facilidades das ferramentas de IA. 
 Todos os prompts seguem abaixo.
 
-[Clique aqui para ler](https://github.com/katiamaiasilva/ebook-com-ia/blob/main/output/Ebook Linguagem do Corpo DIO.pdf)
+[Clique aqui para ler](https://github.com/katiamaiasilva/ebook-com-ia/blob/main/output/Ebook%20Linguagem%20do%20Corpo%20DIO.pdf)
 
 
 ## 💻 Tecnologias utilizadas no projeto
